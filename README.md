@@ -248,32 +248,6 @@ sudo systemctl start postgresql  # to start if not running
 
 </details>
 
-## 📈 Performance
-
-<div align="center">
-  <table>
-    <tr>
-      <th>Task</th>
-      <th>Accuracy</th>
-      <th>F1 Score</th>
-    </tr>
-    <tr>
-      <td>Generation Task</td>
-      <td>XX%</td>
-      <td>XX%</td>
-    </tr>
-    <tr>
-      <td>Correction Task</td>
-      <td>XX%</td>
-      <td>XX%</td>
-    </tr>
-    <tr>
-      <td>Combined Tasks</td>
-      <td>XX%</td>
-      <td>XX%</td>
-    </tr>
-  </table>
-</div>
 
 ## 🔍 Project Structure
 
