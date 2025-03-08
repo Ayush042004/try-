@@ -120,13 +120,6 @@ nltosql-transformer/
 └── README.md
 ```
 
-## 🔮 Future Work
-
-- Add support for more complex SQL constructs (e.g., window functions, CTEs)
-- Implement database schema awareness for more accurate query generation
-- Create a web interface for easy interaction with the model
-- Extend to multiple database dialects (MySQL, PostgreSQL, etc.)
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -141,17 +134,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📚 Citation
 
-If you use this code in your research, please cite:
-
-```
-@software{nltosql_transformer,
-  author = {Your Name},
-  title = {NLtoSQL Transformer},
-  year = {2025},
-  url = {https://github.com/yourusername/nltosql-transformer}
-}
 ```
 
 ## 📧 Contact
