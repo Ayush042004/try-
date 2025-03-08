@@ -199,13 +199,6 @@ nltosql-transformer/
 └── README.md
 ```
 
-## 🔮 Future Work
-
-- Add support for more complex SQL constructs (e.g., window functions, CTEs)
-- Implement database schema awareness for more accurate query generation
-- Create a web interface for easy interaction with the model
-- Extend to multiple database dialects (MySQL, PostgreSQL, etc.)
-- Implement automatic PostgreSQL setup and connection validation
 
 ## 🤝 Contributing
 
