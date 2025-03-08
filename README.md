@@ -305,14 +305,6 @@ nltosql-transformer/
 └── README.md                  # This file
 ```
 
-## 🔮 Future Work
-
-- [ ] Support for complex SQL constructs (window functions, CTEs)
-- [ ] Database schema awareness for context-specific query generation
-- [ ] Web interface for interactive query building
-- [ ] Extension to multiple database dialects (MySQL, MongoDB, etc.)
-- [ ] Automatic schema detection and database setup
-- [ ] Few-shot learning for custom domain adaptation
 
 ## 🤝 Contributing
 
