@@ -20,9 +20,6 @@
 
 **NLtoSQL Transformer** bridges the gap between natural language and database queries, enabling non-technical users to interact with databases using plain English. Built on state-of-the-art T5 transformer models, this system not only generates accurate SQL queries from natural language but also corrects problematic SQL statements, making database interaction more accessible and efficient.
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=NLtoSQL+Transformer+Architecture" alt="NLtoSQL Architecture" width="600"/>
-</p>
 
 ## ✨ Features
 
